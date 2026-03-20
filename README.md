@@ -38,7 +38,7 @@ Press "Enter" a couple times the first time you play a song, this is also a Spot
 ║  1  Home           │  Space  Play/P   │  r  Repeat       ║
 ║  2  Playlists      │  s  Shuffle      │  F5  Refresh     ║
 ║  3  Search         │  +/-  Volume     │  Esc  Quit       ║
-║  4  Liked          │  ←/→ Ctrl Skip   │                  ║
+║  4  Liked          │  p/n Prev/Next   │                  ║
 ║  Tab  Switch Tab   │  ↑/↓ Ctrl Vol    │                  ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
