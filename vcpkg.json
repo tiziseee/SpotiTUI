@@ -1,0 +1,13 @@
+{
+  "name": "SpotiTUI",
+  "version": "1.0.0",
+  "dependencies": [
+    "ftxui",
+    "nlohmann-json",
+    "cpr",
+    "cpp-httplib",
+    "zeromq",
+    "tomlplusplus",
+    "spdlog"
+  ]
+}
