@@ -7,7 +7,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey)](#)
 
-Control your Spotify playback from the terminal. Browse playlists, search tracks, manage your library, and control playback — all without leaving your shell.
+Control your Spotify playback from the terminal. Browse playlists, search tracks, manage your library, and control playback without leaving your shell.
+The app is mostly coded with AI, expect some issues here and there. Listing playlists not created by you won't work because of Spotify API limitaions.
+Press "Enter" a couple times the first time you play a song, this is also a Spotify API issue.
 
 </div>
 
