@@ -219,14 +219,13 @@ sudo cp build/SpotiTUI /usr/local/bin/
 
 | Key           | Action          |
 |---------------|-----------------|
+| `Enter`       | Play Sel. Track |
 | `Space` / `/` | Play / Pause    |
 | `n`           | Next track      |
 | `p`           | Previous track  |
 | `s`           | Toggle shuffle  |
 | `r`           | Cycle repeat    |
 | `+` / `-`     | Volume up/down  |
-| `Ctrl+Left`   | Previous track  |
-| `Ctrl+Right`  | Next track      |
 | `Ctrl+Up`     | Volume up       |
 | `Ctrl+Down`   | Volume down     |
 
